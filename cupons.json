@@ -1,0 +1,26 @@
+{
+  "DESC10": {
+    "codigo": "DESC10",
+    "tipo": "percentual",
+    "valor": 0.1,
+    "data_validade": "2026-05-14T11:10:48.451766"
+  },
+  "DESC20": {
+    "codigo": "DESC20",
+    "tipo": "percentual",
+    "valor": 0.2,
+    "data_validade": "2026-04-29T11:10:48.451766"
+  },
+  "FRETEGRATIS": {
+    "codigo": "FRETEGRATIS",
+    "tipo": "frete_gratis",
+    "valor": 0.0,
+    "data_validade": "2026-04-21T11:10:48.451766"
+  },
+  "REAL5": {
+    "codigo": "REAL5",
+    "tipo": "fixo",
+    "valor": 5.0,
+    "data_validade": "2026-04-24T11:10:48.451766"
+  }
+}
